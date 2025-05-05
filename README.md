@@ -56,7 +56,7 @@ I’m especially interested in:
 
 ## 💼 Recent Work/Project
 
-### ₿ **Crypto Dealer Management System** | DeftDev Tech
+### 🪙 **Crypto Dealer Management System** | DeftDev Tech
 #### *Full Stack Developer | November 2024 - April 2025*
 Worked on a crypto-related project, implementing secure and scalable solutions for dealer management back office:
 
