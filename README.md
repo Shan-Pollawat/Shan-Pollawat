@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Shan-Pollawat/Shan-Pollawat/raw/main/assets/little_boy.gif" alt="little_boy_gif" height="150" />
+</div>
+###
 <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
