@@ -12,9 +12,9 @@
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
 🌏 Based in Bangkok, Thailand
 
-# 📫 Get in Touch
+### 📫 Get in Touch
 - 📧 pollawat.ki8@gmail.com  
-- 🌐 [LinkedIn](#) (https://www.linkedin.com/in/pollawat-preechathammaruch/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pollawat-preechathammaruch/)  
 - 💼 [Resume](https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf)
 ---
 ## 🚀 About Me
