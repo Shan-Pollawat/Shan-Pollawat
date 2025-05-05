@@ -7,19 +7,24 @@
   />
 </div>
 
-<h1 align="center"> Hi there 👋, I'm Shan</h1>
+<h1 align="center"> 
+  Hi there 👋, I'm Shan (Pollawat P.)
+</h1>
 <h3 align="center">
+  📫 Get in Touch
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pollawat.ki8@gmail.com">
-    <img src="assets/gmail.png" height="28" alt="gmail logo"  />
+    <img src="assets/gmail.png" height="20" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/">
-    <img src="assets/linkedin.png" height="28" alt="linkedin logo"  />
+    <img src="assets/linkedin.png" height="20" alt="linkedin logo"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/resume/PollawatPreechathammaruchResume.pdf">
-    <img src="assets/cv.png" height="28" alt="resume logo"  />
+    <img src="assets/cv.png" height="20" alt="resume logo"  />
   </a>
+  &nbsp;&nbsp;
 </h3>
 
 
