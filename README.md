@@ -77,6 +77,14 @@ I’m especially interested in:
 
 ---
 
+<h2>📊 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/<your_leetcode_username>?theme=unicorn&font=Karma&ext=heatmap" alt="LeetCode Stats Card" />
+</p>
+
+---
+
 ## 💼 Recent Work/Project
 
 ### 🪙 **Crypto Dealer Management System** | DeftDev Tech
