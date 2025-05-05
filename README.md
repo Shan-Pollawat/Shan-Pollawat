@@ -8,6 +8,17 @@
 </div>
 
 <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
+<div align="center">
+  <a href="pollawat.ki8@gmail.com" target="_blank">
+    <img src="assets/gmail.png" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/" target="_blank">
+    <img src="assets/linkedin.png" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf" target="_blank">
+    <img src="assets/cv.png" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
@@ -23,13 +34,6 @@ I’m especially interested in:
 - Full stack development (frontend + backend)
 - Data-driven projects, including machine learning and working with GPS data or road networks
 - Scalable backend systems and performance optimization
-
----
-
-## 📫 Get in Touch
-- 📧 pollawat.ki8@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pollawat-preechathammaruch/)  
-- 💼 [Resume](https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf)
 
 ---
 <h2>🛠  Tech Stack </h2>
