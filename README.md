@@ -124,3 +124,12 @@ A backend-focused web simulation of a vending machine, created for a Theory of C
 ✅ Simulated full buying experience: product selection, payment, and state transitions  
 ✅ Applied **finite automata** and **state machine** concepts to backend logic  
 ✅ Focused on backend design and algorithmic flow
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shan-Pollawat/Shan-Pollawat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shan-Pollawat/Shan-Pollawat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shan-Pollawat/Shan-Pollawat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
