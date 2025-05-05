@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shan - Pollawat P.
+<h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
