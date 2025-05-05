@@ -52,6 +52,8 @@ I’m especially interested in:
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 
+---
+
 ## 💼 Recent Work/Project
 
 ### ₿ **Crypto Dealer Management System** | DeftDev Tech
@@ -66,6 +68,8 @@ Worked on a crypto-related project, implementing secure and scalable solutions f
 ✅ Developed and maintained **cron jobs** for scheduled processes and system maintenance  
 ✅ Integrated **Kafka** for real-time event-driven architecture and messaging  
 ✅ Collaborated closely with cross-functional teams to deliver high-quality solutions
+
+---
 
 ### 📍 Potential Truck Parking Spot Detection
 I developed a **Python pipeline** to analyze **~200 million GPS points per run (daily)**,  
