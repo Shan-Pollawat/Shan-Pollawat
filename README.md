@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/" target="_blank">
     <img src="assets/linkedin.png" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf" target="_blank">
+  <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/raw/main/assets/PollawatPreechathammaruchResume.pdf" target="_blank">
     <img src="assets/cv.png" height="40" alt="linkedin logo"  />
   </a>
 </div>
