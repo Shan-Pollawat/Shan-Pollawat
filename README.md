@@ -9,6 +9,8 @@
 
 <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
 <div align="center">
+  <h3>📫 Get in Touch</h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pollawat.ki8@gmail.com">
     <img src="assets/gmail.png" height="30" alt="gmail logo"  />
   </a>
@@ -22,7 +24,6 @@
   </a>
 </div>
 
---
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
