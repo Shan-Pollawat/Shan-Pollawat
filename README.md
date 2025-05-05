@@ -9,14 +9,14 @@
 
 <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
 <div align="center">
-  <a href="pollawat.ki8@gmail.com" target="_blank">
+  <a href="mailto:pollawat.ki8@gmail.com">
     <img src="assets/gmail.png" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/" target="_blank">
+  <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/">
     <img src="assets/linkedin.png" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/raw/main/assets/PollawatPreechathammaruchResume.pdf" target="_blank">
-    <img src="assets/cv.png" height="40" alt="linkedin logo"  />
+  <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/raw/main/assets/PollawatPreechathammaruchResume.pdf">
+    <img src="assets/cv.png" height="40" alt="resume logo"  />
   </a>
 </div>
 
