@@ -9,8 +9,9 @@
 
 <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
 <p align="center">
-📧 pollawat.ki8@gmail.com | 🌐 <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/">LinkedIn</a> | 💼 <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf">Resume</a>
+📧 pollawat.ki8@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/pollawat-preechathammaruch/) | 💼 [Resume](https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf)
 </p>
+
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
