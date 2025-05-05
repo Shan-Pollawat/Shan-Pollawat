@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://github.com/Shan-Pollawat/Shan-Pollawat/raw/main/assets/little_boy.gif" 
+    src="assets/little_boy.gif" 
     alt="little_boy_gif" 
     height="300" 
     style="border-radius: 20px; margin-bottom: 20px;"
@@ -15,8 +15,8 @@
 
 ### 📫 Get in Touch
 - 📧 pollawat.ki8@gmail.com  
-- 🌐 <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/" target="_blank">LinkedIn</a>
-- 💼 <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf" target="_blank">Resume</a>
+- 🌐 [LinkedIn](#https://www.linkedin.com/in/pollawat-preechathammaruch/)  
+- 💼 [Resume](#https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf)
 ---
 ## 🚀 About Me
 
