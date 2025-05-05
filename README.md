@@ -7,7 +7,7 @@
   />
 </div>
 
-<h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
+<h1 align="center"> Hi there 👋, I'm Shan</h1>
 <h3 align="center">
   <a href="mailto:pollawat.ki8@gmail.com">
     <img src="assets/gmail.png" height="28" alt="gmail logo"  />
@@ -123,6 +123,7 @@ A backend-focused web simulation of a vending machine, created for a Theory of C
 ✅ Applied **finite automata** and **state machine** concepts to backend logic  
 ✅ Focused on backend design and algorithmic flow
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shan-Pollawat/Shan-Pollawat/output/pacman-contribution-graph-dark.svg">
