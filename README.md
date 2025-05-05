@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shan - Pollawat Preechathammaruch
+# Hi there 👋, I'm Shan - Pollawat P.
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
@@ -7,7 +7,7 @@
 ---
 ## 🚀 About Me
 
-Right now, I’m a junior full stack developer and data scientist for sometimes
+Right now, I’m a junior full stack developer and data scientist for sometimes.
 I really enjoy solving real-world problems with clean, maintainable code.
 
 I’m especially interested in:
@@ -16,7 +16,7 @@ I’m especially interested in:
 - Scalable backend systems and performance optimization
 
 ---
-<h2>🚀 Tech Stack </h2>
+<h2>🛠  Tech Stack </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -51,4 +51,47 @@ I’m especially interested in:
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+
+## 💼 Recent Work/Project
+
+### ₿ **Crypto Dealer Management System** | DeftDev Tech
+#### *Full Stack Developer | November 2024 - April 2025*
+Worked on a crypto-related project, implementing secure and scalable solutions for dealer management back office:
+
+✅ Developed full-stack applications using **Next.js** (frontend) and **Golang** (Echo framework) for backend  
+✅ Implemented complex **maker-checker workflows** with thorough validation for secure dealer operations  
+✅ Designed and optimized **PostgreSQL** database structures for master data and transaction records  
+✅ Built tiered configuration systems supporting multiple tiers per pair with complete change tracking  
+✅ Created comprehensive history tracking systems and back-office interfaces for dealer management  
+✅ Developed and maintained **cron jobs** for scheduled processes and system maintenance  
+✅ Integrated **Kafka** for real-time event-driven architecture and messaging  
+✅ Collaborated closely with cross-functional teams to deliver high-quality solutions
+
+### 📍 Potential Truck Parking Spot Detection
+I developed a **Python pipeline** to analyze **~200 million GPS points per run (daily)**,  
+detecting potential parking locations for trucks along highways.
+
+✅ Extracted parked trucks based on time filters (30 min – 2 hr) using pandas and efficient shifting  
+✅ Applied **concurrent.futures** for parallel processing to speed up daily runs  
+✅ Used **grid-based batching** to partition ~10 km zones for scalable clustering  
+✅ Performed clustering with **DBSCAN** (min 500 trucks, 30m radius) to identify parking zones  
+✅ Integrated **Shapely** and shapefiles for geospatial validation near highways  
+✅ Added metadata (milestones, road proximity) to improve decision-making
+
+---
+
+### 🚗 Traffic Data Recovery for Map Matching
+A machine learning project designed to improve map matching by predicting driver behavior.
+
+✅ Built a custom model combining **Graph Neural Networks (GNN)**, **LSTM**, and **Self-Attention**  
+✅ Predicted intermediate GPS coordinates to improve routing accuracy  
+✅ Developed a **React.js frontend** and **Flask backend** to visualize predictions and model outputs
+
+---
+
+### 🛒 GearBin – Vending Machine Web Simulation
+A backend-focused web simulation of a vending machine, created for a Theory of Computation course.
+
+✅ Simulated full buying experience: product selection, payment, and state transitions  
+✅ Applied **finite automata** and **state machine** concepts to backend logic  
+✅ Focused on backend design and algorithmic flow
