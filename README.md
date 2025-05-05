@@ -8,14 +8,15 @@
 </div>
 
 <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
+
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
 🌏 Based in Bangkok, Thailand
 
 ### 📫 Get in Touch
 - 📧 pollawat.ki8@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pollawat-preechathammaruch/)  
-- 💼 [Resume](https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf)
+- 🌐 <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/" target="_blank">LinkedIn</a>
+- 💼 <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/assets/PollawatPreechathammaruchResume.pdf" target="_blank">Resume</a>
 ---
 ## 🚀 About Me
 
