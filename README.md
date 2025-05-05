@@ -7,22 +7,22 @@
   />
 </div>
 
-<div>
-  <h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
-  <div align="center">
-    <a href="mailto:pollawat.ki8@gmail.com">
-      <img src="assets/gmail.png" height="30" alt="gmail logo"  />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/">
-      <img src="assets/linkedin.png" height="30" alt="linkedin logo"  />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/resume/PollawatPreechathammaruchResume.pdf">
-      <img src="assets/cv.png" height="30" alt="resume logo"  />
-    </a>
-  </div>
+<h1 align="center"> Hi there 👋, I'm Shan - Pollawat P.</h1>
+<div align="center">
+  <a href="mailto:pollawat.ki8@gmail.com">
+    <img src="assets/gmail.png" height="30" alt="gmail logo"  />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pollawat-preechathammaruch/">
+    <img src="assets/linkedin.png" height="30" alt="linkedin logo"  />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Shan-Pollawat/Shan-Pollawat/blob/main/resume/PollawatPreechathammaruchResume.pdf">
+    <img src="assets/cv.png" height="30" alt="resume logo"  />
+  </a>
 </div>
+
+--
 
 🎓 **Computer Engineering student** at King Mongkut's Institute of Technology Ladkrabang (graduating 2025)  
 💻 Junior **Software Engineer** with experience in frontend, backend, and data-driven projects  
